@@ -7,6 +7,20 @@ Just add the localhost link as a browser source in OBS.
 
 ![mockup](https://i.imgur.com/MbPAsPX.png)
 
+## Getting started
+
+To get started, run the following commands:
+
+```bash
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+
+```
+
 ## Code
 
 All code is distributed under the [MIT license](LICENSE).  
